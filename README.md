@@ -1,6 +1,6 @@
-# EcomSentimentAnalysis
+# TechVibe
 
-EcomSentimentAnalysis is a full-stack e-commerce application with integrated sentiment analysis for product reviews. It uses Django for the backend, React for the frontend, and MongoDB as the database.
+TechVibe is a full-stack e-commerce application with integrated sentiment analysis for product reviews. It uses Django for the backend, React for the frontend, and MongoDB as the database.
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
@@ -23,8 +23,7 @@ Before you begin, ensure you have met the following requirements:
 ## Project Structure
 
 ```
-EcomSentimentAnalysis/
-│
+TechVibe│
 ├── backend/
 │   ├── ecommerce_project/
 │   ├── sentiment_analysis/
