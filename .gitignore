@@ -61,7 +61,7 @@ backend/venv.bak/
 # Django specific
 backend/*/migrations/*
 !backend/*/migrations/__init__.py
-backend/settings.py
+backend/ecommerce_project/settings.py
 
 # React / Frontend #
 # dependencies
